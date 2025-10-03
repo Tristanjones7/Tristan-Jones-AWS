@@ -7,11 +7,11 @@ I hold two AWS certifications — **Solutions Architect Associate** and **SysOps
 ---
 
 ## 🚀 Current Projects  
-- 🌐 [**Static Website Hosting with Terraform**](https://github.com/777-888/terraform-s3-cloudfront-static-site) – S3 + CloudFront + Route 53  
-- 🖥 [**Multi-Tier WordPress App on AWS**](https://github.com/777-888/aws-wordpress-ha) – EC2, RDS, ALB, Auto Scaling, EFS  
-- ⚡ [**Serverless REST API**](https://github.com/777-888/aws-lambda-api) – API Gateway, Lambda, DynamoDB  
-- 🔄 [**CI/CD Pipeline with Terraform + Docker**](https://github.com/777-888/terraform-docker-ci-cd) – GitHub Actions, ECR, EC2 runners  
-- ☸️ [**Kubernetes on AWS (EKS)**](https://github.com/777-888/aws-eks-lab) – Helm, container orchestration  
+- 🌐 Static Website Hosting with Terraform – S3 + CloudFront + Route 53  
+- 🖥 Multi-Tier WordPress App on AWS – EC2, RDS, ALB, Auto Scaling, EFS  
+- ⚡ Serverless REST API – API Gateway, Lambda, DynamoDB  
+- 🔄 CI/CD Pipeline with Terraform + Docker – GitHub Actions, ECR, EC2 runners  
+- ☸️ Kubernetes on AWS (EKS) – Helm, container orchestration  
 
 ---
 
