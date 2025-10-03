@@ -1,36 +1,40 @@
-# 👋 Hi, I'm Tristan Jones
+# 👋 Hi, I'm Tristan Jones  
 
-I'm an aspiring **Cloud Engineer** with a focus on designing and deploying secure, scalable cloud infrastructure using AWS.
+I’m an aspiring **Cloud Engineer** passionate about designing and automating secure, scalable cloud infrastructure with **AWS and Infrastructure as Code**.  
 
-I've earned the **AWS Certified Solutions Architect – Associate** and am actively building hands-on projects to strengthen my real-world skills in cloud architecture and DevOps.
-
----
-
-## 🚀 What I'm Working On
-- A serverless REST API with **API Gateway, Lambda, and DynamoDB**
-- A multi-tier web app deployed with **EC2, Load Balancer, and RDS**
-- A personal portfolio hosted on **S3, CloudFront, and Route 53**
-- Automating deployments with **Terraform** and **GitHub Actions**
+I hold two AWS certifications — **Solutions Architect Associate** and **SysOps Administrator Associate** — and I’m actively building projects that showcase my ability to deliver production-ready cloud solutions.  
 
 ---
 
-## 🛠 Skills & Tools
-- **Cloud:** AWS (EC2, S3, IAM, RDS, Lambda, VPC, Route 53)
-- **IaC:** Terraform, AWS CloudFormation
-- **DevOps:** CI/CD, GitHub Actions, CloudWatch
-- **Scripting:** Bash, Python (learning phase)
+## 🚀 Current Projects  
+- 🌐 [**Static Website Hosting with Terraform**](https://github.com/777-888/terraform-s3-cloudfront-static-site) – S3 + CloudFront + Route 53  
+- 🖥 [**Multi-Tier WordPress App on AWS**](https://github.com/777-888/aws-wordpress-ha) – EC2, RDS, ALB, Auto Scaling, EFS  
+- ⚡ [**Serverless REST API**](https://github.com/777-888/aws-lambda-api) – API Gateway, Lambda, DynamoDB  
+- 🔄 [**CI/CD Pipeline with Terraform + Docker**](https://github.com/777-888/terraform-docker-ci-cd) – GitHub Actions, ECR, EC2 runners  
+- ☸️ [**Kubernetes on AWS (EKS)**](https://github.com/777-888/aws-eks-lab) – Helm, container orchestration  
 
 ---
 
-## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/tristan-jones-0a106a217/)
-- ✉️ tristanjones77@outlook.com
+## 🛠 Skills & Tools  
+**Cloud:** AWS (EC2, S3, IAM, RDS, Lambda, VPC, Route 53, CloudFront)  
+**IaC:** Terraform (core focus), AWS CloudFormation, Ansible  
+**DevOps:** CI/CD (GitHub Actions), Docker, CloudWatch, Grafana, Prometheus  
+**Scripting:** Python (boto3 automation, FastAPI APIs), Bash  
 
-Thanks for visiting — check out my pinned projects to see what I’m building!
+---
 
+## 🧾 Certifications  
+- 🎓 AWS Certified Solutions Architect – Associate  
+- 🎓 AWS Certified SysOps Administrator – Associate  
+- 📖 Terraform Associate (in progress)  
 
+---
 
+## 📫 Let’s Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tristanjones)  
+- 📂 [GitHub](https://github.com/777-888)  
+- ✉️ [Email](mailto:tristanjones77@outlook.com)  
 
-## 🧾 Certifications
+---
 
-- 🎓 [AWS Solutions Architect Associate](https://www.credly.com/badges/7024386b-edf2-41d1-b529-bae40ad26475/public_url)) – Issued May 2025
+👉 Thanks for visiting my profile! I’m documenting my journey daily and building toward a **Cloud Engineer role**, while sharing my progress in **AWS, Terraform, and DevOps**.  
