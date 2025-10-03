@@ -32,7 +32,7 @@ I hold two AWS certifications — **Solutions Architect Associate** and **SysOps
 
 ## 📫 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/tristanjones)  
-- 📂 [GitHub](https://github.com/777-888)  
+- 📂 [GitHub](https://github.com/Tristanjones7)  
 - ✉️ [Email](mailto:tristanjones77@outlook.com)  
 
 ---
