@@ -18,11 +18,12 @@ I hold two AWS certifications, **Solutions Architect Associate** and **SysOps Ad
 ---
 
 ## 🚀 Current Projects
-- 📊 **Linux Log Monitoring & Alerting System** — Bash + Ansible solution that continuously scans system logs for errors, sends Slack/email alerts, and rotates/archives logs automatically.
-- 🧱 **Terraform Infrastructure Modules** — Reusable IaC modules for AWS VPC, EC2, and IAM with workspace-based environments and a GitHub Actions validation workflow.
-- 🧩 **Terraform Github Factory** — Terraform that provisions isolated developer environments, repositories, and permissions (repo factory + tagging/standards baked in).
-- 🔄 **CI/CD Pipeline with Terraform + GitHub Actions** — Automated fmt/validate/plan and environment deployments using self-hosted runners.
-- ☸️ **Kubernetes on AWS (EKS)** — Container orchestration with Helm and Terraform for scalable, production-grade infrastructure.
+- 🖥 **Multi-Tier WordPress Hosting on AWS** — High-availability architecture using EC2, RDS, EFS, ALB, and Auto Scaling to host a dynamic WordPress site with Terraform automation.  
+- 🧩 **Terraform GitHub Factory** — Infrastructure-as-Code system that automates GitHub repository creation, SSH key management, and standardized tagging for DevOps workflows.  
+- 🧱 **Terraform Dev Environment** — Fully automated development workspace provisioning pipeline using Terraform, IAM, and remote backends to manage isolated environments.  
+- 🌐 **Dynamic Website Hosting on AWS** — Deployed and managed a dynamic web application leveraging EC2, S3, and Route 53 with Terraform and CI/CD integration.  
+- 📊 **Linux Log Monitoring & Alerting System** — Bash + Ansible solution that continuously scans system logs for errors, sends Slack/email alerts, and rotates/archives logs automatically.  
+
 
 ---
 
