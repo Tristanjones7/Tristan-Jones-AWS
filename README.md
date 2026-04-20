@@ -14,7 +14,7 @@
 
 **Cloud & DevOps Engineer** passionate about designing and automating secure, scalable infrastructure using **AWS, Terraform, and Linux**.
 
-I hold two AWS certifications — **Solutions Architect Associate** and **SysOps Administrator Associate** — and I’m actively building projects that demonstrate end-to-end delivery of production-ready cloud environments.
+I hold two AWS certifications — **Solutions Architect Associate** and **SysOps Administrator Associate** and I’m actively building projects that demonstrate end-to-end delivery of production-ready cloud environments.
 
 ---
 
