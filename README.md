@@ -18,7 +18,7 @@ I hold two AWS certifications **Solutions Architect Associate** and **SysOps Adm
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 - 🖥 **Multi-Tier WordPress Hosting on AWS** — High-availability architecture using EC2, RDS, EFS, ALB, and Auto Scaling to host a dynamic WordPress site with Terraform automation.  
 - 🧩 **Terraform GitHub Factory** — Infrastructure-as-Code system that automates GitHub repository creation, SSH key management, and standardized tagging for DevOps workflows.  
 - 🧱 **Terraform Dev Environment** — Fully automated development workspace provisioning pipeline using Terraform, IAM, and remote backends to manage isolated environments.  
@@ -28,7 +28,7 @@ I hold two AWS certifications **Solutions Architect Associate** and **SysOps Adm
 
 ---
 
-## 🛠 Skills & Tools
+## Skills & Tools
 **Cloud:** AWS (EC2, S3, IAM, RDS, Lambda, VPC, Route 53, CloudFront)  
 **IaC:** Terraform (core focus), AWS CloudFormation, Ansible  
 **DevOps:** CI/CD (GitHub Actions, Jenkins), Docker, CloudWatch, Grafana, Prometheus  
